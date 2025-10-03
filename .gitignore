@@ -2,3 +2,4 @@ data/
 datasets/
 runs/
 .DS_Store
+*.pt
